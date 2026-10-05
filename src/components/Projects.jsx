@@ -42,7 +42,7 @@ function ProjectCard({ p, i }) {
             className="
               h-full
               w-full
-              object-cover
+              object-contain
               object-top
               transition
               duration-700
